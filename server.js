@@ -41,10 +41,6 @@ app.use(express.json())
 // Global middleware
 app.use((req, res, next) => {
     res.locals.session = req.session
-<<<<<<< HEAD
-    
-=======
->>>>>>> 949c6b2... third
     next()
 })
 
