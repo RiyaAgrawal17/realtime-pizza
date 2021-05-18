@@ -13,4 +13,4 @@ $ npm install and then npm start.
 
 
 
-NOTE : please update your links (COOKIE_SECRET & MONGO_CONNECTION_URL in the .env file.
+NOTE : please update your links (COOKIE_SECRET & MONGO_CONNECTION_URL) in the .env file.
