@@ -3,7 +3,7 @@ This is a web application for ordering pizzas.You can register/login and order f
 
 
 
-There is also a feature of updating the process from oreder accepting to delivering the order for the admin. And user can get this information in real time.
+There is also a feature of updating the process from order accepting to delivering the order for the admin. And user can get this information in real time.
 
 # How to use this repository?
 $ Use git clone
